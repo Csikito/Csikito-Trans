@@ -222,7 +222,6 @@ img {
 
 .home__images {
   position: absolute;
-  top: 2rem;
   left: 0;
   height: 900px;
   object-fit: fill;
